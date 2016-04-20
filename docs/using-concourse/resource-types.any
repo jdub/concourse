@@ -105,6 +105,10 @@ before using it!
     \hyperlink{https://github.com/seadowg/hockey-resource}{Hockey App}
   }{
     \hyperlink{https://github.com/robdimsdale/concourse-pipeline-resource}{Concourse Pipelines}
+  }{
+    \hyperlink{https://github.com/jdub/ami-resource}{AMI Updates}
+  }{
+    \hyperlink{https://github.com/jdub/debian-sources-resource}{Debian/Ubuntu Sources Updates}
   }
   
   \section{Adding to this list}{
